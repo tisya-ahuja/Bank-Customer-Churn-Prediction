@@ -21,4 +21,4 @@ The dataset contains the following features:
 * has_card: Ownership of credit card by the customer
 * is_active: Recent activity indicator of the customer
 * estimated_salary: Estimated salary of the customer
-* exit_status: Has the customer exit (Target Variable)
+* exit_status: Has the customer exit
